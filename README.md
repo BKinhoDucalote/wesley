@@ -7,3 +7,6 @@ Meu nome é Wesley
 -Para meus projetos pessoais, profissionais.
 
 ![](https://media.tenor.com/Af_oNsZtio4AAAAd/dealjb-russe.gif)
+
+
+
