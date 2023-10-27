@@ -6,7 +6,7 @@ Meu nome é Wesley
 -Estou me desenvolvendo na linguagem JavaScript
 -Para meus projetos pessoais, profissionais.
 
-![](https://media.tenor.com/Af_oNsZtio4AAAAd/dealjb-russe.gif)[]!
+![(https://media.tenor.com/Af_oNsZtio4AAAAd/dealjb-russe.gif)]!
 
 
 
